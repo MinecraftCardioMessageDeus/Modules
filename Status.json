@@ -1,0 +1,20 @@
+{
+    "game_status" : {
+        "Brookhaven RP 🏡" : "🔴",
+        "Blue Lock: Rivals" : "🟢",
+        "Blox Fruits" : "🟢",
+        "Murder Mystery 2": "🔴",
+        "Gym League 💪🏻": "🔴"
+    },
+    "executor_status" : {
+        "KRNL" : "🟢",
+        "Delta" : "🟢",
+        "Arceus X" : "🟢",
+        "Hydrogen": "🟢",
+        "Wave": "🟢",
+        "Xeno": "🔴",
+        "Fluxus" : "🔴",
+        "Swift" : "🔴",
+        "Solara": "🔴"
+    }
+}
