@@ -1,11 +1,11 @@
 {
     "game_status" : {
-        "Brookhaven RP 🏡" : "🔴",
-        "Blue Lock: Rivals" : "🔴",
-        "Blox Fruits" : "🔴",
+        "Brookhaven RP 🏡" : "🟢",
+        "Blue Lock: Rivals" : "🟢",
+        "Blox Fruits" : "🟢",
         "Murder Mystery 2": "🔴",
-        "Gym League 💪🏻": "🔴",
-        "Universal": "🟣"
+        "Gym League 💪🏻": "🟢",
+        "Universal": "🟢"
     },
     "executor_status" : {
         "KRNL" : "🟢",
